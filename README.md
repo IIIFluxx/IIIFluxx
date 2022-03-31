@@ -17,7 +17,7 @@
 <br>
 Below are relevant repos containing code from all the programming units I have taken in this degree.
 
-**Curtin University ❖ BSc Computing: Software Engineering Science**
+**Curtin University ❖ BSc Computing: Software Engineering**
 
 [*To be uploaded in the next few hours*]
 
