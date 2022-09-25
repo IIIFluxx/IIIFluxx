@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bharath. I'm a Software Engineer in my final year at Curtin University.
-- 🌱 I’m currently studying Software Engineeering
+- 👋 Hi, I’m Bharath. I'm a Software Engineer graduated from Curtin University in July 2022.
+- 🌱 I studied Software Engineeering
 
 
 
@@ -9,16 +9,38 @@
   
 **Email:**|bharathsukesh@live.com
 :-----:|:-----:
+**LinkedIn:**| www.linkedin.com/in/bharathsukesh/
 **Discord:**|Fluxx#2890
   
 </details>
 
 <h2> 🎓 Software Engineering Degree </h2>
-<br>
-Below are relevant repos containing code from all the programming units I have taken in this degree.
+Below are relevant repos containing code from some of the programming units I have taken in this degree.
+<table>
+	<tbody>
+		<tr>
+			<td colspan="5">Curtin University ❖ BSc Computing: Software Engineering</td>
+		</tr>
+		<tr>
+			<td colspan="1">2019</td>
+			<td colspan="2">2020</td>
+			<td colspan="2">2021</td>
+		</tr>
+		<tr>
+			<td>Sem 2</td>
+			<td>Sem 1</td>
+			<td>Sem 2</td>
+			<td>Sem 1</td>
+			<td>Sem 2</td>
+		</tr>
+    		<tr>
+			<td>OOPD</td> 
+			<td>DSA <br> UCP </td>
+			<td>CG <br> MAD </td>
+			<td>DC <br> OOSE <br> OS </td>
+			<td>SEC</td>
+		</tr>
+	</tbody>
+</table>
 
-**Curtin University ❖ BSc Computing: Software Engineering**
-
-[*To be uploaded in the next few hours*]
-
-
+*Set up README template, will gradually bring in code over time for each unit :)*
