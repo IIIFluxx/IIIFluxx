@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Bharath. I'm a Software Engineer graduated from Curtin University in July 2022.
-- 🌱 I studied Software Engineeering
-
+- 👋 Hi, I’m Bharath. I'm a Graduate Software Engineer.
+- 🌱 I studied Software Engineering and completed my studies at Curtin University in July 2022!
 
 
 <details open>
