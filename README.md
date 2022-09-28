@@ -33,13 +33,22 @@ Below are relevant repos containing code from some of the programming units I ha
 			<td>Sem 2</td>
 		</tr>
     		<tr>
-			<td>OOPD</td> 
-			<td>DSA <br> UCP </td>
-			<td>CG <br> MAD </td>
-			<td>DC <br> OOSE <br> OS </td>
-			<td>SEC</td>
+			<td><a href="https://github.com/IIIFluxx/OOPD" target="_blank" rel="noopener noreferrer">
+        <abbr title="Object Oriented Program Design">OOPD</abbr></a></a></td> 
+			<td><a href="https://github.com/IIIFluxx/DSA" target="_blank" rel="noopener noreferrer">
+        <abbr title="Data Structures & Algorithms">DSA</abbr></a></a> <br> <a href="https://github.com/IIIFluxx/UCP" target="_blank" rel="noopener noreferrer">
+        <abbr title="Unix & C Programming">UCP</abbr></a></a> </td>
+			<td><a href="https://github.com/IIIFluxx/CG" target="_blank" rel="noopener noreferrer">
+        <abbr title="Computer Graphics">CG</abbr></a></a> <br> <a href="https://github.com/IIIFluxx/MAD" target="_blank" rel="noopener noreferrer">
+        <abbr title="Mobile Application Development">MAD</abbr></a></a> </td>
+			<td><a href="https://github.com/IIIFluxx/DC" target="_blank" rel="noopener noreferrer">
+        <abbr title="Distributed Computing">DC</abbr></a></a> <br> <a href="https://github.com/IIIFluxx/OOSE" target="_blank" rel="noopener noreferrer">
+        <abbr title="Object Oriented Software Engineering">OOSE</abbr></a></a> <br> <a href="https://github.com/IIIFluxx/OS" target="_blank" rel="noopener noreferrer">
+        <abbr title="Operating Systems">OS</abbr></a></a> </td>
+			<td><a href="https://github.com/IIIFluxx/SEC" target="_blank" rel="noopener noreferrer">
+        <abbr title="Software Engineering Concepts">SEC</abbr></a></a></td>
 		</tr>
 	</tbody>
 </table>
 
-*Set up README template, will gradually bring in code over time for each unit :)*
+:)
